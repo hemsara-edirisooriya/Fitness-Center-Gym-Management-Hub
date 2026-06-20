@@ -61,6 +61,28 @@ main{
     padding-top: 20px;
 }
 .c-intro{
-    font-size: 70px;
+    font-size: 80px;
     padding-right: 590px;
+}
+fieldset{
+    margin-top: -190px;
+    padding: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    gap: 10px;
+    border-radius: 8px;
+}
+.num{
+    width: 204px;
+}
+.lbl-msg{
+    width: 210px;
+}
+.send-btn{
+    padding: 2px 120px;
+    color: black;
 }
