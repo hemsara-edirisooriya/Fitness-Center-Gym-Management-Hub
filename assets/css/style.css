@@ -3,8 +3,8 @@
     margin: 0;
     padding: 0;
 }
-main{
-    padding-top: 40px;
+body{
+    background-color: #0F161E;
 }
 .nav-bar{
     display: flex;
@@ -30,4 +30,13 @@ main{
     background-color: black;
     border: solid white 2px;
     transition: .4s;
+}
+main{
+    padding-top: 70px;
+}
+.img1{
+    position: fixed;
+    margin-top: -5px;
+    width: 600px;
+    height: 800px;
 }
