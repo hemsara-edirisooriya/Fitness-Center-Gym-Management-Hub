@@ -44,12 +44,16 @@ main{
     display: flex;    
     flex-direction: column;
     align-items: flex-end;
-    text-align: right;
+    text-align: left;
     color: white;
     border: solid wheat 2px;    
     padding: 30px;
-    padding-left: 900px;
+    padding-left: 950px;
 }
 .git{
     font-size: 70px;
+    padding-right: 590px;
+}
+.intro-para{
+    padding-top: 20px;
 }
